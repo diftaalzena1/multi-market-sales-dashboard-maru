@@ -71,6 +71,12 @@ Berdasarkan analisis awal:
 
 ---
 
+## 📎 Demo
+💻 [Link ke Dashboard – Looker Studio] (
+bit.ly/marudashboard)
+
+---
+
 ## 📌 Catatan Tambahan
 
 Proyek ini merupakan dummy project yang saya buat untuk menunjukkan pemahaman saya dalam membangun dashboard bisnis dan menyajikan insight berbasis data yang actionable.  
