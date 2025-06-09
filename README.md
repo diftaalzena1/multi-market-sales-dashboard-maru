@@ -73,7 +73,7 @@ Berdasarkan analisis awal:
 
 ## 📎 Demo
 💻 [Link ke Dashboard – Looker Studio] (
-bit.ly/marudashboard)
+[bit.ly/marudashboard](url))
 
 ---
 
